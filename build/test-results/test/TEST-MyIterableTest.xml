@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyIterableTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-11-10T16:33:11" hostname="WIN-G1S3CJS4IR3" time="0.036">
+  <properties/>
+  <testcase name="transformFloat" classname="MyIterableTest" time="0.027"/>
+  <testcase name="transformBoolean" classname="MyIterableTest" time="0.001"/>
+  <testcase name="filterFloat" classname="MyIterableTest" time="0.001"/>
+  <testcase name="transformString" classname="MyIterableTest" time="0.002"/>
+  <testcase name="filterBoolean" classname="MyIterableTest" time="0.001"/>
+  <testcase name="transformInteger" classname="MyIterableTest" time="0.001"/>
+  <testcase name="filterInteger" classname="MyIterableTest" time="0.001"/>
+  <testcase name="filterString" classname="MyIterableTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
